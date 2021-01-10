@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sats vs USD</title>
+    <link>http://satsusd.io/</link>
+    <description>Recent content on Sats vs USD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;nbsp; </copyright><atom:link href="http://satsusd.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sats are the Standard</title>
+      <link>http://satsusd.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satsusd.io/</guid>
+      <description>100000000/BTCUSD Chart by TradingView  new TradingView.widget( { &#34;width&#34;: 710, &#34;height&#34; : 610, &#34;symbol&#34;: &#34;100000000/BTCUSD&#34;, &#34;timezone&#34;: &#34;Etc/UTC&#34;, &#34;theme&#34;: &#34;dark&#34;, &#34;style&#34;: &#34;1&#34;, &#34;locale&#34;: &#34;en&#34;, &#34;toolbar_bg&#34;: &#34;#f1f3f6&#34;, &#34;enable_publishing&#34;: false, &#34;range&#34;: &#34;12M&#34;, &#34;allow_symbol_change&#34;: true, &#34;container_id&#34;: &#34;tradingview_dff9d&#34; } );   You&amp;rsquo;re not buying Bitcoin, you&amp;rsquo;re selling dollars. The dollar is going to zero. This is what hyperinflation looks like.
+When looking at the Bitcoin price, it is fun to look at how it&amp;rsquo;s going up.</description>
+    </item>
+    
+  </channel>
+</rss>
